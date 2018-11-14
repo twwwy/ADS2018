@@ -8,7 +8,7 @@ Cleaned and filtered by date: https://drive.google.com/open?id=1PA0uNKkliLoPyGFa
 ### Achieved
 1. heatmap of accidents
 
-### Goal for Next Meetiing
+### Goal for Next Meetiing: Tueday at 4:00pm
 1. regression of fatal on contributing fators
 2. time series analysis: trends and cycles
 3. spatial autocorrelation
