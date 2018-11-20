@@ -24,3 +24,7 @@ https://drive.google.com/file/d/1mK-HZ5E4_F14AJxzEmCZH0TlEABVlDlR/view?usp=shari
 ### Updata_Jingxi_11/20
 Upload some spatial analysis results by using Global Morans1, Local Morans1 and Hot spot analysis(Getis-Ord Gi) methods in ArcGIS.\
 Here is the interpretation of spatial method index and results:https://docs.google.com/document/d/1Eb1rYd87xf2somXTrXmGEAu3jGRHCTBKQKtS5KjTA9k/edit?usp=sharing
+
+
+### Adding Categories:
+https://docs.google.com/spreadsheets/d/1Ntb3kQKs7u6WLdqH2ydqpBR2M3-9o0ViwKX5goGdP-4/edit#gid=0
