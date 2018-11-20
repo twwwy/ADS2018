@@ -21,6 +21,6 @@ upload another cleaned version of data (combine duplicate and error values in th
 https://drive.google.com/file/d/1mK-HZ5E4_F14AJxzEmCZH0TlEABVlDlR/view?usp=sharing
 
 
-## Updata_Jingxi_11/20
-Upload some spatial analysis results by using Global Morans1, Local Morans1 and Hot spot analysis(Getis-Ord Gi) methods in ArcGIS.
+### Updata_Jingxi_11/20
+Upload some spatial analysis results by using Global Morans1, Local Morans1 and Hot spot analysis(Getis-Ord Gi) methods in ArcGIS.\
 Here is the doc containing all methods,interpretation of method index and results:https://docs.google.com/document/d/1Eb1rYd87xf2somXTrXmGEAu3jGRHCTBKQKtS5KjTA9k/edit?usp=sharing
