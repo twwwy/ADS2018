@@ -5,14 +5,11 @@ Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Coll
 
 Cleaned and filtered by date: https://drive.google.com/open?id=1sWmIGU5ygXvGBtBuEr1rLNBEOmrk4J41
 
-### Achieved
-1. heatmap of accidents
-
-### Goal for Next Meetiing: Tueday at 4:00pm
-1. regression of fatal on contributing fators
-2. time series analysis: trends and cycles
-3. spatial autocorrelation
-3. ?clustering
+### Goal for Next Meetiing: Tueday at 4:30pm
+1. ols regression on injuries and fatals using factors, location, time and seasons
+2. time series analysis: trend and cycle analysis base on location and time
+3. separate spatial autocorrelation analysis with different time and seasons
+3. k-means cluster
 
 ### Update 11/18 wyw238:
 upload a preliminary analysis of 1 & 2.\
@@ -27,3 +24,4 @@ Here is the interpretation of spatial method index and results:https://docs.goog
 
 ### Adding Categories:
 https://docs.google.com/spreadsheets/d/1Ntb3kQKs7u6WLdqH2ydqpBR2M3-9o0ViwKX5goGdP-4/edit#gid=0
+
