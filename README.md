@@ -25,3 +25,5 @@ Here is the interpretation of spatial method index and results:https://docs.goog
 ### Adding Categories:
 https://docs.google.com/spreadsheets/d/1Ntb3kQKs7u6WLdqH2ydqpBR2M3-9o0ViwKX5goGdP-4/edit#gid=0
 
+### Contributing factors added to data:
+https://drive.google.com/open?id=1quXHwd7Y6XHQnx3AxswoczLXYTsNZOip
