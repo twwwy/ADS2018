@@ -27,3 +27,9 @@ https://docs.google.com/spreadsheets/d/1Ntb3kQKs7u6WLdqH2ydqpBR2M3-9o0ViwKX5goGd
 
 ### Contributing factors added to data:
 https://drive.google.com/open?id=1quXHwd7Y6XHQnx3AxswoczLXYTsNZOip
+
+
+### Data with boroughs joined along with other data
+https://drive.google.com/file/d/1zDIVEqGEOokqzmekKDojTAa0VPRGdYay/view?usp=sharing
+
+I have uploaded notebook with regression analysis.
