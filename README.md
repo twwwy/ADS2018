@@ -5,11 +5,11 @@ Data Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Coll
 
 Cleaned and filtered by date: https://drive.google.com/open?id=1sWmIGU5ygXvGBtBuEr1rLNBEOmrk4J41
 
-### Goal for Next Meetiing: Tueday at 4:30pm
-1. ols regression on injuries and fatals using factors, location, time and seasons
-2. time series analysis: trend and cycle analysis base on location and time
-3. separate spatial autocorrelation analysis with different time and seasons
-3. k-means cluster
+### Update 12/13: Goal for Next Steps
+1. Data Wrengling: 
+
+### Update 12/13 wyw238:
+1. Using Random Forest and Linear Regression successfully explain the periodicity of the accidents using hour and day of week features. Out-sampel R2 0.83
 
 ### Update 11/18 wyw238:
 upload a preliminary analysis of 1 & 2.\
