@@ -26,7 +26,7 @@ Here is the interpretation of spatial method index and results:https://docs.goog
 https://docs.google.com/spreadsheets/d/1Ntb3kQKs7u6WLdqH2ydqpBR2M3-9o0ViwKX5goGdP-4/edit#gid=0
 
 ### Contributing factors added to data:
-https://drive.google.com/open?id=1quXHwd7Y6XHQnx3AxswoczLXYTsNZOip
+https://drive.google.com/file/d/1Ll87UVKchfhQgJVLm4i0uwpG14VXlkE_/view?usp=sharing
 
 
 ### Data with boroughs joined along with other data
