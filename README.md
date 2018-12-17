@@ -30,6 +30,6 @@ https://drive.google.com/open?id=1quXHwd7Y6XHQnx3AxswoczLXYTsNZOip
 
 
 ### Data with boroughs joined along with other data
-https://drive.google.com/file/d/1zDIVEqGEOokqzmekKDojTAa0VPRGdYay/view?usp=sharing
+https://drive.google.com/file/d/1yfMkTj98YPVfQbCXlrmG9qCAxDkN2YlZ/view?usp=sharing
 
 I have uploaded notebook with regression analysis.
